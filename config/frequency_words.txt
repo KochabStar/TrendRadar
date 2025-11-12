@@ -1,5 +1,8 @@
-胖东来
-于东来
+十五五
+
+ai
+!gai
+人工智能
 
 DeepSeek
 梁文锋
@@ -77,10 +80,6 @@ iphone
 ipad
 mac
 ios
-
-ai
-!gai
-人工智能
 
 自动驾驶
 
